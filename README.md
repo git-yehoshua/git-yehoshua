@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Joshua+Flores+%F0%9F%91%8B;Frontend+Developer+%7C+Problem+Solver;Passionate+about+Modern+UI%2FUX+Design" alt="Typing SVG">
-</p>
+# 👋 Hi, I'm Joshua Flores!
 
----
-
-## 📌 About Me
-
-Hi! I'm **Joshua Flores**, a passionate Frontend Developer with a knack for creating modern, user-friendly, and efficient web applications. I thrive on solving complex problems, exploring cutting-edge technologies, and collaborating with creative teams to bring ideas to life.
+I'm a **Frontend Developer** passionate about creating modern, user-friendly, and efficient web applications. I love solving problems, exploring new technologies, and collaborating with others to bring ideas to life.
 
 📍 **Location**: Gumaca, Quezon, Philippines  
 📧 **Email**: [joshuaflores.garlan@gmail.com](mailto:joshuaflores.garlan@gmail.com)  
@@ -14,41 +8,26 @@ Hi! I'm **Joshua Flores**, a passionate Frontend Developer with a knack for crea
 
 ---
 
-## 🚀 Skills at a Glance
+## 🚀 Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,shadcn,git,github,firebase,mongodb&perline=5" alt="My Skills" />
-  </a>
-</p>
+### Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,shadcn)](https://skillicons.dev)
+
+### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,firebase,mongodb)](https://skillicons.dev)
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Expertise
 
-- **Frontend Frameworks**: React, Next.js, ShadCN, Tailwind CSS  
+- **Frontend Development**: React, Next.js, ShadCN, Tailwind CSS  
+- **Backend & Databases**: Node.js, Express, Firebase, MongoDB  
 - **Version Control**: Git, GitHub  
-- **Backend & Databases**: Node.js, Express, MongoDB, Firebase  
-- **Design & Prototyping**: Figma, Responsive Design  
-- **UI Libraries**: ShadCN, Tailwind CSS, Material-UI  
+- **UI/UX**: Responsive Design, Figma  
 
 ---
 
-## ✨ Other Skills
-
-- 🎨 **UI/UX Design**: Crafting intuitive and visually appealing user experiences.  
-- 🧩 **Problem-Solving**: Breaking down complex problems and creating efficient solutions.  
-- 📱 **Responsive Design**: Ensuring seamless experiences across devices.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaflores&show_icons=true&theme=radical" alt="Joshua's GitHub Stats" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaflores&layout=compact&theme=radical" alt="Top Languages" height="160px">
-</p>
-
----
-
-<p align="center">
-  Let's connect and build something amazing together! 🚀
-</p>
+Let's connect and build something amazing together! 🚀
